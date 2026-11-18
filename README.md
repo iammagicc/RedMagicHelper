@@ -2,7 +2,7 @@
 
 相对于原版 **3.3.4（334）** 的修改说明。原开发者 **酷安@卒迹** 保持不变，修改者为 [iammagicc](https://github.com/iammagicc/RedMagicHelper)。
 
-[下载 3.3.5 安装包](./RedMagicHelper_3.3.5.apk?raw=true)
+([下载 3.3.5 安装包](https://github.com/iammagicc/RedMagicHelper/releases/download/stable/RedMagicHelper_3.3.5.apk))
 
 ## 与原版的变化
 
