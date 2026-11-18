@@ -21,3 +21,7 @@
 本仓库仅提供安装包与本 README 。
 
 APK SHA-256：`519bcc68d48a7496bbf79381342c8b1ff321aad6cf612e4f44cf924aae41509f`
+
+## 参考项目
+- https://github.com/LSPosed/dexsql-release
+- https://github.com/JingMatrix/Vector
